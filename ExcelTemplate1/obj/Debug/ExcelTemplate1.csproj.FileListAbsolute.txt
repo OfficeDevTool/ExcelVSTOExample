@@ -1,0 +1,15 @@
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\ExcelTemplate1.dll
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\ExcelTemplate1.pdb
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\ExcelTemplate1.dll.manifest
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\ExcelTemplate1.vsto
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\ExcelTemplate1.xltx
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jpmchia\source\repos\ExcelTemplate1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.csprojAssemblyReference.cache
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.Properties.Resources.resources
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.Sheet1.resources
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.csproj.GenerateResource.cache
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.csproj.CoreCompileInputs.cache
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.csproj.CopyComplete
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.dll
+C:\Users\jpmchia\source\repos\ExcelTemplate1\obj\Debug\ExcelTemplate1.pdb
